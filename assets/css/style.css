@@ -102,6 +102,9 @@ main div:nth-of-type(3) select {
   margin-bottom: 10px;
 }
 
+
+
+
 main div:nth-child(3) > select:hover {
   border: 1px solid rgb(51, 138, 151);
 }
@@ -123,7 +126,7 @@ main div:nth-child(4) > textarea:hover {
   position: relative;
 }
 
-.label1::after {
+.label3::after {
   content: "";
   width: 20px;
   height: 20px;
